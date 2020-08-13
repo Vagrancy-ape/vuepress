@@ -66,6 +66,7 @@ If you have a VuePress-related project/component/tool, add it with a pull reques
   </tr>
 </table>
 
+<!-- first commit -->
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
